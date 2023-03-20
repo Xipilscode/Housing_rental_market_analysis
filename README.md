@@ -80,9 +80,9 @@ For this project section, we will use numerical and visual aggregation to calcul
 
 2. Create a new DataFrame named `prices_square_foot_by_year` by filtering out the “housing_units” column. The new DataFrame should include the averages per year for only the sale price per square foot and the gross rent.
 
-3. Use hvPlot to plot the `prices_square_foot_by_year` DataFrame as a line plot. the resulting plot will appear similar to the following image. 
+3. Use hvPlot to plot the `prices_square_foot_by_year` DataFrame as a line plot. The resulting plot will appear similar to the following image. 
 
-![Line plot example:](Images/pricing-info-by-neighborhood.png)
+![Line plot example:](Images/avg-sale-px-sq-foot-gross-rent.png)
 
 4. Use both the `prices_square_foot_by_year` DataFrame and interactive plots to answer the following questions:
 
@@ -99,7 +99,7 @@ For this project section, we will use interactive visualizations and widgets to 
 
 3. Create an interactive line plot with hvPlot that visualizes both `sale_price_sqr_foot` and `gross_rent`. Set the x-axis parameter to the year (x="year"). Use the groupby parameter to create an interactive widget for neighborhood. The resulting plot will appear similar to the following image:
 
-![Line plot example:](Images/avg-sale-px-sq-foot-gross-rent.png)
+![Line plot example:](Images/pricing-info-by-neighborhood.png)
 
 4. Use the interactive visualization to answer the following question:
 
