@@ -12,10 +12,11 @@ The main objective of this project is to visualize and analyze the real estate d
 The following technologies were used in this repository:
 * `Python 3.9.13` - This project was developed using Python programming language version 3.9.13. 
 * `JupyterLab` - This web-based interactive development environment was used for exploring and analyzing data.
+* `Conda` -  This package manager and environment management system was used to manage the project's dependencies and create a reproducible environment for the project
 * `pandas`- Package used for data manipulation and analysis. 
 * `hvplot` - Package used for interactive data visualization in Python.
 * `pathlib` - Package provides a simple interface to manipulate file system paths in an object-oriented manner.
-* 
+
 
 ## Installation
 1. Install the Conda package manager on your local machine, following the instructions for your operating system on the official[Conda website](https://docs.conda.io/projects/conda/en/latest/user-guide/install/).
