@@ -1,4 +1,4 @@
-# Housing_rental_market_analysis_for_San_Francisco
+# San_Francisco_Housing_Market_Analysis
 
 The main objective of this project is to visualize and analyze the real estate data in San Francisco. The following tasks are performed:
 
